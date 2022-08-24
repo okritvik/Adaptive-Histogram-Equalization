@@ -29,7 +29,8 @@ The working directory should have adaptive_hist_data and Adaptive_Histogram_Equa
 
 2. You can always use ctrl+c to exit from the program.
 
-### Note: 
+### Note:
+The resultant image is not interpolated. Hence, the grid lines are visible in the equalized image.
 Make sure that the directory tree is maintained.
 Uncomment some of the lines in the code to vizualize each image.
 adaptive_hist_data folder has the image dataset for processing
